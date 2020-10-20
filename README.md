@@ -1,3 +1,3 @@
 # Codeforces-Contest-Solutions
-Contains my solution to Codeforces contests questions (in C++/Python).
+Contains my solutions to Codeforces contests questions (in C++/Python).
 
